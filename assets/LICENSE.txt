@@ -1,6 +1,12 @@
-Original assets for GPT娘 by Tokyo, 2026.
+GPT娘 artwork and asset notices
 
-The original niang.svg design (and rasterized niang.png/icon.png), synthesized press.wav/release.wav and quotes.json text were created specifically for this plugin. No artwork, audio or quotes extracted from GPTNiangMac are included.
+Dragon character illustration: assets/niang.png and derived icon.png
+Copyright (c) 2026 Tokyo. All rights reserved.
+Tokyo has identified this illustration as their original work and authorized its inclusion in the public GPT娘 plugin, its GitHub repository, npm package and plugin marketplace distribution. Users may install and use it as part of this plugin; redistribution of this plugin with the illustration and this notice intact is authorized. This permission does not place the illustration in the public domain or grant separate artwork resale or relicensing rights.
 
-These assets are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
-To the extent a public-domain dedication is ineffective, permission is granted to use, reproduce, modify and redistribute these assets for any purpose without restriction. Provided as-is, without warranty.
+Synthesized press.wav/release.wav and quotes.json reply text:
+Copyright (c) 2026 Tokyo. Dedicated under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+To the extent a public-domain dedication is ineffective, permission is granted to use, reproduce, modify and redistribute these sounds and reply texts for any purpose without restriction. Provided as-is, without warranty.
+
+The former placeholder SVG from version 1.5.0 is not the source of the current dragon illustration and is no longer shipped.

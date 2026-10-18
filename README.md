@@ -1,12 +1,12 @@
 # GPT娘额度挂件
 
-Tokyo · 1.5.0 · MIT 代码 / CC0 原创素材 · `dsh-gpt-niang-quota`
+Tokyo · 1.5.1 · MIT 代码 / Tokyo 授权立绘 / CC0 音效与回复 · `dsh-gpt-niang-quota`
 
 DSH 聊天界面的纯 DOM 陪伴挂件：角色默认位于输入框左侧，可拖动、缩放，点击切换回复气泡与 Codex 额度卡片。额度展示套餐、剩余比例与北京时间重置点，以 Codex 实际返回窗口为准。
 
 ![Tokyo 原创陪伴角色](assets/niang.png)
 
-公开版使用独立创作的紫色龙角陪伴角色、合成音效与 12 句原创回复，不包含原应用提取的图片、音效、语录库或个人截图。
+公开版使用 Tokyo 创作并授权随插件公开分发的龙娘立绘；合成音效与 12 句原创回复保持不变。不包含个人账户数据、真实额度截图或原应用提取的音效与语录库。
 
 ## 安装
 
@@ -55,6 +55,6 @@ npm run test:browser
 
 源码沿用本地 gptniang-dsh，并参考 GPTNiangMac / Local GPT Niang Widget 与 dsh-whale-widget 的实现思路。保留原代码 MIT 署名；完整条款见 [LICENSE](./LICENSE)。该条款不将原应用角色、美术、音效或语录重新授权为 MIT。
 
-原创素材（立绘、图标、合成提示音、回复文字）采用 CC0 1.0，见 [素材许可](assets/LICENSE.txt)。可编辑 SVG 源图保存在仓库中；npm 包仅包含运行所需资源。回复格式为 `{ "quotes": [{ "text": "原创回复", "weight": 1 }] }`。
+龙娘立绘及衍生图标版权归 Tokyo，已授权随本插件、GitHub 仓库、npm 包和市场分发；保留署名与许可说明，不等于将立绘作为 CC0 素材或单独出售。合成提示音、回复文字采用 CC0 1.0，详见 [素材许可](assets/LICENSE.txt)。1.5.0 的占位 SVG 已替换，不是当前立绘的源图。回复格式为 `{ "quotes": [{ "text": "原创回复", "weight": 1 }] }`。
 
 首次市场收录需目录维护者审核；公开仓库、npm 发布和目录收录是分别完成的步骤。
