@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs><linearGradient id="body" x2="0" y2="1"><stop stop-color="#b2a3ef"/><stop offset="1" stop-color="#8268c5"/></linearGradient><linearGradient id="horn" x2="0" y2="1"><stop stop-color="#fff0ba"/><stop offset="1" stop-color="#e8be6e"/></linearGradient></defs>
+<g stroke="#4d4175" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104 369 Q26 375 43 453 Q59 487 137 466" fill="#9780d5"/>
+<path d="M55 422L30 394L68 395" fill="#c6b7f4"/>
+<path d="M144 346 Q96 382 105 470 Q245 509 394 469 Q413 389 359 346" fill="url(#body)"/>
+<path d="M184 367 Q145 400 159 477 Q256 501 345 475 Q354 406 313 367" fill="#f5e9ff"/>
+<path d="M139 181 Q70 173 66 239 Q107 259 144 229M370 181 Q438 173 448 230 Q415 257 372 233" fill="#a58cde"/>
+<path d="M132 178 Q99 112 123 58 Q171 87 177 156M333 158 Q333 97 387 62 Q399 116 373 177" fill="url(#horn)"/>
+<path d="M131 106L163 123M358 120L385 105" fill="none" stroke="#c79e60" stroke-width="6"/>
+<path d="M113 230 Q109 130 251 122 Q396 128 399 238 Q417 342 345 367 Q255 403 159 367 Q94 340 113 230" fill="#b5a1e8"/>
+<path d="M147 256 Q143 181 252 177 Q368 178 365 267 Q377 344 294 363 Q210 383 162 337Z" fill="#fcf0e9"/>
+<path d="M117 263Q126 161 244 149Q323 141 385 222L348 246L316 201L283 253L254 198L208 252L196 207L147 275Z" fill="#ddd0ff"/>
+<path d="M206 148Q194 98 228 76Q242 118 274 130" fill="#ddd0ff"/>
+<ellipse cx="199" cy="288" rx="20" ry="29" fill="#64528e" stroke-width="5"/><ellipse cx="310" cy="288" rx="20" ry="29" fill="#64528e" stroke-width="5"/>
+<ellipse cx="205" cy="278" rx="7" ry="10" fill="white" stroke="none"/><ellipse cx="316" cy="278" rx="7" ry="10" fill="white" stroke="none"/>
+<path d="M238 323Q255 341 273 323" fill="none" stroke-width="6"/>
+<ellipse cx="164" cy="316" rx="19" ry="10" fill="#f3b6c8" stroke="none"/><ellipse cx="349" cy="316" rx="19" ry="10" fill="#f3b6c8" stroke="none"/>
+<path d="M160 405Q111 392 114 434Q126 456 170 443M344 405Q396 392 391 433Q378 456 336 442" fill="#b5a1e8"/>
+<path d="M215 380L254 401L293 380L282 423L255 409L227 423Z" fill="#7863b1"/>
+<path d="M255 425L264 442L255 459L246 442Z" fill="#e8be6e" stroke-width="4"/>
+</g></svg>

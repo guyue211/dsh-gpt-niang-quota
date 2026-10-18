@@ -1,0 +1,6 @@
+Original assets for GPT娘 by Tokyo, 2026.
+
+The original niang.svg design (and rasterized niang.png/icon.png), synthesized press.wav/release.wav and quotes.json text were created specifically for this plugin. No artwork, audio or quotes extracted from GPTNiangMac are included.
+
+These assets are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+To the extent a public-domain dedication is ineffective, permission is granted to use, reproduce, modify and redistribute these assets for any purpose without restriction. Provided as-is, without warranty.

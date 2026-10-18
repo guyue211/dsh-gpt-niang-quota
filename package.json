@@ -1,0 +1,45 @@
+{
+  "name": "dsh-gpt-niang-quota",
+  "version": "1.5.0",
+  "private": false,
+  "author": "Tokyo",
+  "icon": "./icon.png",
+  "repository": { "type": "git", "url": "git+https://github.com/guyue211/dsh-gpt-niang-quota.git" },
+  "homepage": "https://github.com/guyue211/dsh-gpt-niang-quota#readme",
+  "bugs": { "url": "https://github.com/guyue211/dsh-gpt-niang-quota/issues" },
+  "keywords": ["dsh-plugin", "codex", "quota", "widget"],
+  "type": "module",
+  "description": "DSH 桌面陪伴挂件：Codex 订阅额度监控、手动程序路径与自定义回复，纯 DOM 实现。",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "node tests/quotes-settings.browser.mjs",
+    "check": "node --check index.js && node --check widget.js"
+  },
+  "files": [
+    "index.js",
+    "widget.js",
+    "cordis.patch.yml",
+    "icon.png",
+    "assets/niang.png",
+    "assets/press.wav",
+    "assets/release.wav",
+    "assets/quotes.json",
+    "assets/LICENSE*",
+    "LICENSE",
+    "README.md"
+  ],
+  "meta": {
+    "title": "GPT娘额度挂件",
+    "description": "可拖动缩放的陪伴挂件，支持 Codex 额度监控与自定义回复。"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT"
+}

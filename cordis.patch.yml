@@ -1,0 +1,14 @@
+# ============================================================================
+# dsh-gpt-niang-quota —— DSH bundle patch
+# ============================================================================
+# 把 GPT娘 Codex 额度挂件挂进当前 profile 的配置树。
+#
+# 安装（由 plugin_manager 的 install_bundle 完成，无需手工改 profile）：
+#   plugin_manager { action: "install_bundle", target: "dsh-gpt-niang-quota" }
+# 也可在 DSH 插件市场通过标准 bundle 安装。
+# 本包使用 Node.js 内置模块与 DSH 宿主服务，没有额外 npm 依赖。
+# ============================================================================
+
+- insert:
+    - id: dsh-gpt-niang-quota
+      name: dsh-gpt-niang-quota

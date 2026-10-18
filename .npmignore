@@ -1,0 +1,16 @@
+tests/
+node_modules/
+.git/
+.github/
+.env
+.env.*
+*.log
+*.tgz
+coverage/
+artifacts/
+playwright-report/
+test-results/
+docs/
+install.mjs
+uninstall.mjs
+.DS_Store
